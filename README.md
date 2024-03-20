@@ -1,5 +1,3 @@
-
-Copy code
 - 👋 Hi, I’m Ruslan Ponomarenko
 - 👀 I’m interested in growing professionally as a software developer
 - 🌱 I'm focused on being a backend programmer
